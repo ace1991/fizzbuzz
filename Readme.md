@@ -1,13 +1,7 @@
-# Template - Testing Sostenible con TypeScript
+# Kata Fizzbuzz - Testing Sostenible con TypeScript
 
-Plantilla base para practicar las katas del curso o para empezar un proyecto nuevo.
+El enunciado típico de la kata dice: escribe un programa que muestre en pantalla los números del 1 al 100, sustituyendo los múltiplos de 3 por la palabra "fizz" y, a su vez, los múltiplos de 5 por "buzz". Para los números que a su vez son múltiplos de 3 y 5, utilizaremos la cadena "fizzbuzz".
 
-Incluye:
-* TypeScript
-* Jest
-* ESLint
-* Prettier
-* Husky
 
 ## Instrucciones
 * `npm install`
